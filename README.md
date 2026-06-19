@@ -37,7 +37,7 @@ Comprised of 5 routes (instances):
 
 An article using this instance was published in the LVII Operations Research Brazilian Symposium (SBPO) in 2025.
 
-'''
+```
 @inproceedings{costa_aprendizado_2025,
 	title = {Aprendizado por {Reforço} {Automatizado} no {Planejamento} de {Rotas} de {Turismo} da {Estrada} {Real}},
 	url = {https://proceedings.science/proceedings/100607/_papers/212424},
@@ -46,6 +46,6 @@ An article using this instance was published in the LVII Operations Research Bra
 	author = {Costa, Thiago Camargo Da and Santos, Samara Oliveira Silva and Nepomuceno, Erivelton Geraldo and Ottoni, André Luiz Carvalho},
 	year = {2025},
 }
-'''
+```
 
 doi:[10.59254/sbpo-2025-212424](doi.org/10.59254/sbpo-2025-212424)
