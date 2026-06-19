@@ -48,4 +48,4 @@ An article using this instance was published in the LVII Operations Research Bra
 }
 ```
 
-doi:[10.59254/sbpo-2025-212424](doi.org/10.59254/sbpo-2025-212424)
+doi: [10.59254/sbpo-2025-212424](https://doi.org/10.59254/sbpo-2025-212424)
