@@ -35,7 +35,7 @@ Comprised of 5 routes (instances):
 
 ## Published article
 
-An article using this instance was published in the LVII Operations Research Brazilian Symposium (SBPO) in 2025.
+An article using this instance was published in the LVII Brazilian Symposium On Operations Research (2025).
 
 ```
 @inproceedings{costa_aprendizado_2025,
