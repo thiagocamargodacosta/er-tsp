@@ -43,9 +43,10 @@ An article using this instance was published in the LVII Brazilian Symposium On 
 	url = {https://proceedings.science/proceedings/100607/_papers/212424},
 	doi = {10.59254/sbpo-2025-212424},
 	urldate = {2026-06-19},
+	booktitle = {{BOOK} {OF} {ABSTRACTS} {OF} {THE} {LVII} {BRAZILIAN} {SYMPOSIUM} {ON} {OPERATIONS} {RESEARCH}},
+	publisher = {Galoá},
 	author = {Costa, Thiago Camargo Da and Santos, Samara Oliveira Silva and Nepomuceno, Erivelton Geraldo and Ottoni, André Luiz Carvalho},
 	year = {2025},
-}
-```
+}```
 
 doi: [10.59254/sbpo-2025-212424](https://doi.org/10.59254/sbpo-2025-212424)
